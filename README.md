@@ -52,3 +52,7 @@ API вызывается через принудительный структу�
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+## Лицензия
+
+MIT — см. файл `LICENSE`.
